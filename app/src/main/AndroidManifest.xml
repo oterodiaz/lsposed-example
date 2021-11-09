@@ -34,7 +34,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="My first Xposed module" />
+            android:value="Change the statusbar clock text and color" />
         <meta-data
             android:name="xposedminversion"
             android:value="82" />
