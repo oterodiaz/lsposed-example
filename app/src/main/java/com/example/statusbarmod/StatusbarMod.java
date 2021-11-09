@@ -20,7 +20,7 @@ public class StatusbarMod implements IXposedHookLoadPackage {
                 TextView tv = (TextView) param.thisObject;
                 String text = tv.getText().toString();
                 tv.setText(String.format("The time is %s", text));
-                tv.setTextColor(Color.BLUE);
+                tv.setTextColor(Color.GREEN);
             }
         });
 
