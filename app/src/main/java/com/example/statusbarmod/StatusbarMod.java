@@ -1,3 +1,7 @@
+/*
+ * NOTE: Parts of this code are licensed differently from the rest of the project.
+ * See the LICENSE file for more information.
+ */
 package com.example.statusbarmod;
 
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
