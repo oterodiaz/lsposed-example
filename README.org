@@ -2,5 +2,4 @@
 
 An example Xposed module based on the [[https://github.com/rovo89/XposedBridge/wiki/Development-tutorial]["RedClock" tutorial by rovo89]] that works on recent Android versions with LSPosed and Magisk.
 
-#+attr_html: :width 500px
-[[file:screenshot.png]]
+[[file:screenshot.png][See a screenshot]]
