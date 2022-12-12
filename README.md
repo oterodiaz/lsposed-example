@@ -7,4 +7,4 @@ You can read about LSposed in their GitHub repository [here](https://github.com/
 
 ## Screenshot
 
-![Screenshot](./screenshot.png)
+<img src="./screenshot.png" width="480px"/>
